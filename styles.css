@@ -770,12 +770,11 @@ img{
 
 
 .Border{
+    border: dotted #171913 8px;
+    border-bottom: none;
     border-radius: 10 px;
     background-color: #637070;
     width: auto;
-    height: 15px;
-    border-color: rgb(208, 170, 243);
-    border-color: black;
 }
 
 .Border:hover{
