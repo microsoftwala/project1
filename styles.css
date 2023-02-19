@@ -142,7 +142,7 @@ img{
     background-color: #d4d4d4;
 }
 .hello:hover{
-    background-color: #949696;
+    background-color: #f9a3db;
 }
 .hello1{
     width: 1263px;
@@ -150,7 +150,7 @@ img{
     background-color: #d4d4d4;
 }
 .hello1:hover{
-    background-color: #949696;
+    background-color: #f9a3db;
 }
 .hello2{
     width: 1263px;
@@ -158,7 +158,7 @@ img{
     background-color: #d4d4d4;
 }
 .hello2:hover{
-    background-color: #938982;
+    background-color: #f9a3db;
 }
 
 .upper{
@@ -562,7 +562,7 @@ img{
     background-color: #d4d4d4;
 }
 .qualification:hover{
-    background-color: #949696;
+    background-color: #f9a3db;
 }
 .qualification__tabs{
     display:flex;
@@ -615,7 +615,7 @@ img{
 }
 
 .services:hover{
-    background-color: #949696;
+    background-color: #f9a3db;
 }
 .services__container{
     gap: 1.5rem;
@@ -624,7 +624,7 @@ img{
 
 .services__content{
     position: relative;
-    background-color:rgba(255, 252, 252, 0.5);
+    background-color:rgba(183, 244, 198, 0.5);
     padding: 3rem .5rem 1.25rem 1.5rem;
     border-radius: .5rem;
     box-shadow: 0 5px 5px rgba(230, 2, 2, 0.5);
@@ -632,7 +632,7 @@ img{
 
 .services__content:hover{
     box-shadow: 0 10px 8px rgba(0, 0, 0, 0.15);
-    background-color: rgb(243, 186, 221);
+    background-color: rgb(215, 215, 215);
 }
 
 .services__icon{
