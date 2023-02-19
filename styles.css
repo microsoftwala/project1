@@ -137,26 +137,32 @@ img{
 }
 
 .hello{
-    background-color: rgba(55, 72, 81, 0.5);
+    width: 1263px;
+    /* background-color: rgba(55, 72, 81, 0.5); */
+    background-color: #d4d4d4;
 }
 .hello:hover{
     background-color: #949696;
 }
 .hello1{
-    background-color:rgba(55, 72, 81, 0.5);
+    width: 1263px;
+    /* background-color:rgba(55, 72, 81, 0.5); */
+    background-color: #d4d4d4;
 }
 .hello1:hover{
     background-color: #949696;
 }
 .hello2{
-    background-color:rgba(55, 72, 81, 0.5);
+    width: 1263px;
+    /* background-color:rgba(55, 72, 81, 0.5); */
+    background-color: #d4d4d4;
 }
 .hello2:hover{
-    background-color: #949696;
+    background-color: #938982;
 }
 
 .upper{
-    background-color: rgba(237, 87, 42, 0.5);
+    background-color: rgba(151, 106, 240, 0.5);
     text-align: center;
     font-size: 25px;
     color: rgb(33, 9, 43);
@@ -190,7 +196,7 @@ img{
     }
 
     .nav__menu:hover{
-      background-color: #c6c1be;
+      background-color: #9cbf8a;
     }
 
 
@@ -551,7 +557,9 @@ img{
 }
 
 .qualification{
-    background-color: rgba(55, 72, 81, 0.5);
+    width: 1263px;
+    /* background-color: rgba(55, 72, 81, 0.5); */
+    background-color: #d4d4d4;
 }
 .qualification:hover{
     background-color: #949696;
@@ -600,7 +608,9 @@ img{
 
 
 .services{
-    background-color: rgba(55, 72, 81, 0.5);
+    width: 1263px;
+    /* background-color: rgba(55, 72, 81, 0.5); */
+    background-color: #d4d4d4;
     cursor: pointer;
 }
 
@@ -773,10 +783,19 @@ img{
     border: dotted #171913 8px;
     border-bottom: none;
     border-radius: 10 px;
-    background-color: #637070;
-    width: auto;
+    background-color: #6d8070;
+   width: 1263px;
 }
 
 .Border:hover{
     background-color: rgb(149, 180, 188);
 }
+
+@media only screen and (min-width: 400px){
+    .header .main {
+        right:-13%;
+        width:30%;
+
+    }
+}
+
