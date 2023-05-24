@@ -66,6 +66,11 @@ h1,h2,h3,h4{
     font-weight:var(--font-semi-bold);
 }
 
+.middle{
+    width: 100%;
+}
+
+
 ul{
     list-style: none;
 }
@@ -513,6 +518,53 @@ img{
 }
 
 .skills__js{
+    width: 40%;
+    background-color: #4a83ab;
+    border-radius: .5rem;
+    box-shadow: 0 5px 5px rgba(69, 103, 103, 0.5);
+}
+
+
+.skills__nodejs{
+    width: 60%;
+    background-color: #4a83ab;
+    border-radius: .5rem;
+    box-shadow: 0 5px 5px rgba(69, 103, 103, 0.5);
+}
+
+
+.skills__reactjs{
+    width: 40%;
+    background-color: #4a83ab;
+    border-radius: .5rem;
+    box-shadow: 0 5px 5px rgba(69, 103, 103, 0.5);
+}
+
+.skills__mongojs{
+    width: 60%;
+    background-color: #4a83ab;
+    border-radius: .5rem;
+    box-shadow: 0 5px 5px rgba(69, 103, 103, 0.5);
+}
+
+
+.skills__django{
+    width: 65%;
+    background-color: #4a83ab;
+    border-radius: .5rem;
+    box-shadow: 0 5px 5px rgba(69, 103, 103, 0.5);
+}
+
+
+.skills__sql{
+    width: 70%;
+    background-color: #4a83ab;
+    border-radius: .5rem;
+    box-shadow: 0 5px 5px rgba(69, 103, 103, 0.5);
+}
+
+
+.skills__flask{
     width: 40%;
     background-color: #4a83ab;
     border-radius: .5rem;
